@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-let message = string = "I change the name";
+let message = string = "I name";
 console.log(message);
 =======
 let message = string = "Hello World";
